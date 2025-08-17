@@ -11,17 +11,17 @@
 
 The Nothing Phone 2A (codenamed _"Galaga"_) is a mid-range smartphone from Nothing released in mid 2025.
 
-![Nothing Phone 2A](https://nothing.tech/cdn/shop/products/black-1.png?v=1709369796)
+![Nothing CMF Phone 2 pro](https://fdn2.gsmarena.com/vv/pics/nothing/nothing-cmf-phone-2-pro-1.jpg)
 
 ## Device specifications
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | 2 x 2.8GHz Cortex-A715 +6 x Cortex-A510
+CPU     | 4 x 2.5 GHz Cortex-A78 & 4 x 2.0 GHz Cortex-A55
 Chipset | Mediatek Dimensity 7300 pro
-GPU     | Mali-G615 MC6
-Memory  | 8/12 GB RAM
-Shipped Android Version | 15
+GPU     | Mali-G615 MC2
+Memory  | 8 GB RAM
+Shipped Android Version | 15 NothingOS 3.2
 Storage | 128/256 GB
 Battery | Li-Po 5000 mAh, non-removable
 Display | 1080 x 2392 pixels, 6.77 inches, 60/120 hz HDR10+
