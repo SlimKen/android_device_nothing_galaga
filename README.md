@@ -9,7 +9,7 @@
 
 =========================================
 
-The Nothing Phone 2A (codenamed _"Galaga"_) is a mid-range smartphone from Nothing released in mid 2025.
+The Nothing CMF Phone 2 pro (codenamed _"Galaga"_) is a mid-range smartphone from Nothing released in mid 2025.
 
 ![Nothing CMF Phone 2 pro](https://fdn2.gsmarena.com/vv/pics/nothing/nothing-cmf-phone-2-pro-1.jpg)
 
