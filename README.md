@@ -32,8 +32,8 @@ Blocking checks
 
     [ ] Correct screen/recovery size
     [ ] Working Touch, screen
-    [ ] Backup to internal/microSD (No SD card slot)
-    [ ] Restore from internal/microSD (No SD card slot)
+    [ ] Backup to internal/microSD
+    [ ] Restore from internal/microSD
     [ ] reboot to system
     [ ] ADB
 
