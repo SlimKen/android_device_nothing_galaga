@@ -11,7 +11,11 @@ AB_OTA_PARTITIONS += \
     product \
     system \
     system_ext \
-    vendor 
+    vendor \
+    odm \
+    vendor_boot \
+    system_dlkm \
+    vendor_dlkm
   
 PRODUCT_PACKAGES += \
     update_engine \
@@ -95,8 +99,8 @@ TARGET_RECOVERY_DEVICE_MODULES += \
     libpuresoftkeymasterdevice
 
 RECOVERY_LIBRARY_SOURCE_FILES += \
-    $(TARGET_OUT_SHARED_LIBRARIES)/libkeymaster4.so \
-    $(TARGET_OUT_SHARED_LIBRARIES)/libkeymaster41.so \
+    $(TARGET_OUT_SHARED_LIBRARIES)/libkeymaster4support.so \
+    $(TARGET_OUT_SHARED_LIBRARIES)/libkeymaster4_1support.so \
     $(TARGET_OUT_SHARED_LIBRARIES)/libpuresoftkeymasterdevice.so
 
 # Rootdir
