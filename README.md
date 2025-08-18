@@ -67,7 +67,7 @@ Minor checks
     [ ] Fastbootd
 
 
-## After you've built a custom recovery using this tree, you can enter the following command in fastboot to flash it
+## This is a recovery-as-vendor_boot image, you can enter the following command in fastboot to flash it
 
 ```
 fastboot flash vendor_boot vendor_boot.img
