@@ -21,7 +21,7 @@ CPU     | 4 x 2.5 GHz Cortex-A78 & 4 x 2.0 GHz Cortex-A55
 Chipset | Mediatek Dimensity 7300 pro
 GPU     | Mali-G615 MC2
 Memory  | 8 GB RAM
-Shipped Android Version | 15 NothingOS 3.2
+Shipped Android Version | 15 with NothingOS 3.2
 Storage | 128/256 GB
 Battery | Li-Po 5000 mAh, non-removable
 Display | 1080 x 2392 pixels, 6.77 inches, 60/120 hz HDR10+
