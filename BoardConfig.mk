@@ -48,7 +48,7 @@ TARGET_BOOTLOADER_BOARD_NAME := Galaga
 TARGET_NO_BOOTLOADER := true
 
 # Resolution
-TARGET_SCREEN_HEIGHT := 2400
+TARGET_SCREEN_HEIGHT := 2392
 TARGET_SCREEN_WIDTH := 1080
 
 # Display
@@ -164,8 +164,8 @@ TW_MAX_BRIGHTNESS := 2047
 TW_NO_SCREEN_BLANK := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_CUSTOM_BATTERY_PATH := "/sys/class/power_supply/battery"
-TW_Y_OFFSET := 95
-TW_H_OFFSET := -95
+# TW_Y_OFFSET := 95
+# TW_H_OFFSET := -95
 
 # include python, for ABX conversion
 TW_INCLUDE_PYTHON := true
