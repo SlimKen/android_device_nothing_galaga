@@ -2,9 +2,9 @@
 PRODUCT_DEVICE := Galaga
 PRODUCT_NAME := twrp_Galaga
 PRODUCT_BRAND := Nothing
-PRODUCT_MODEL := A150
+PRODUCT_MODEL := A001
 PRODUCT_MANUFACTURER := Nothing
-PRODUCT_RELEASE_NAME := Nothing  CMF Phone 2 Pro
+PRODUCT_RELEASE_NAME := Nothing CMF Phone 2 Pro
 
 # Device specific configs
 $(call inherit-product, device/nothing/Galaga/device.mk)
