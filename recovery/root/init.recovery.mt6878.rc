@@ -1,8 +1,14 @@
 import /init.recovery.project.rc
+import /init.touch.rc
 
 on init
     setprop sys.usb.configfs 1
     setprop sys.usb.controller "11201000.usb0"
+    
+    #intialize touch panel
+    exec_background u:r:vendor_modprobe:s0 --/vendor/bin/modprobe -a -d \
+             /vendor/lib/modules tui-common.ko focaltech_tp.ko ft3683g.ko eph861.ko
+
 
 on fs && property:ro.debuggable=0
     # distinguish USB shoulde connect or not, i.e. CDP vs SDP

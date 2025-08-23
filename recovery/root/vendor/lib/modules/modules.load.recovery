@@ -201,3 +201,9 @@ mtk_tinysys_ipi.ko
 mtk-mmdvfs-v3-start.ko
 haptic.ko
 haptic_sfdc.ko
+bootinfo.ko
+touchpanel_event_notify.ko
+tui-common.ko
+ft3683g.ko
+eph861.ko
+focaltech_tp.ko
